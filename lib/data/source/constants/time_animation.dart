@@ -1,0 +1,1 @@
+const timeLogo = 2;
