@@ -29,7 +29,7 @@ class BodyInfoCourse extends StatelessWidget {
             ),
             infoWidget('Thời gian', data.time + ', ${data.dayOfWeek}'),
             infoWidget('Mô tả khóa học', data.description),
-            infoWidget('Học phí', data.fee),
+            infoWidget('Học phí', data.fee + '.000 vnđ'),
             infoWidget('Yêu cầu', data.require),
           ],
         ),

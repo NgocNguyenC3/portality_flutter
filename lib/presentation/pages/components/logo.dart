@@ -9,6 +9,7 @@ class Logo extends StatelessWidget {
     return Hero(
         tag: 'dash',
         transitionOnUserGestures: true,
+        flightShuttleBuilder: _flightShuttleBuilder,
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
@@ -23,4 +24,17 @@ class Logo extends StatelessWidget {
           ],
         ));
   }
+}
+
+Widget _flightShuttleBuilder(
+  BuildContext flightContext,
+  Animation<double> animation,
+  HeroFlightDirection flightDirection,
+  BuildContext fromHeroContext,
+  BuildContext toHeroContext,
+) {
+  return DefaultTextStyle(
+    style: DefaultTextStyle.of(toHeroContext).style,
+    child: toHeroContext.widget,
+  );
 }

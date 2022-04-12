@@ -36,7 +36,7 @@ class BodyFee extends StatelessWidget {
                   height: 10,
                 ),
                 Text(
-                  count.toString() + '00 VND',
+                  count.toString() + '.000 VND',
                   style: textStyle(color11, 30, FontWeight.w700),
                 ),
               ],
