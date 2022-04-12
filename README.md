@@ -7,7 +7,8 @@
 3. Màn hình tối thiểu để sử dụng: height - 541, Width - 325
 
 Các màn hình có trong ứng dụng
-![Login](https://drive.google.com/file/d/15gMYJLrWSFXpvqh85T_FFqgke5tM8YFk/view?usp=sharing)
+![Login](https://drive.google.com/file/d/15gMYJLrWSFXpvqh85T_FFqgke5tM8YFk/view?usp=sharing) OR
+<img src="https://drive.google.com/file/d/15gMYJLrWSFXpvqh85T_FFqgke5tM8YFk/view?usp=sharing"/>
 ![HomePage](https://drive.google.com/file/d/15g1RnEmJR9dCXCN7M9JsOelaZIXJ8OBD/view?usp=sharing)
 ![SchedulePage](https://drive.google.com/file/d/15hFQ1ky-VVIEb4Xg47g1vBRgT84J0j4e/view?usp=sharing)
 ![TaskPage](https://drive.google.com/file/d/15Y8UOHvqQON-HQ518URix1JZoEcs4XR2/view?usp=sharing)
