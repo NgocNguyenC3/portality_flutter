@@ -36,7 +36,7 @@ class BodyFee extends StatelessWidget {
                   height: 10,
                 ),
                 Text(
-                  count.toString() + '.000 VND',
+                  count.toInt().toString() + '.000 VND',
                   style: textStyle(color11, 30, FontWeight.w700),
                 ),
               ],
@@ -86,7 +86,7 @@ class BodyFee extends StatelessWidget {
                         ),
                       ),
                       Text(
-                        dataCourse[list[index]]!.fee + ' VND',
+                        dataCourse[list[index]]!.fee + '.000 VND',
                         style: textStyle(Colors.black, 14, FontWeight.w400),
                       ),
                     ],

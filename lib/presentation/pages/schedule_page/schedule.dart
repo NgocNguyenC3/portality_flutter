@@ -34,7 +34,7 @@ class SchedulePage extends StatelessWidget {
                   'Thời khóa biểu',
                   style: textStyle(colorGreen, 25, FontWeight.w700),
                 ),
-                Expanded(child: BodySchedule())
+                const Expanded(child: BodySchedule())
               ],
             );
           },

@@ -53,46 +53,44 @@ Widget scheduleItem(context, id) {
       padding: const EdgeInsets.symmetric(horizontal: 14.0, vertical: 8.0),
       decoration: const BoxDecoration(
           color: color2, borderRadius: BorderRadius.all(Radius.circular(10))),
-      child: Flexible(
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Text(
-              data.name,
-              style: textStyle(Colors.black, 18.0, FontWeight.w700),
-              overflow: TextOverflow.ellipsis,
-            ),
-            const SizedBox(
-              height: 3,
-            ),
-            Row(
-              mainAxisAlignment: MainAxisAlignment.start,
-              children: [
-                Image.asset(
-                  iconsPath + 'clock.png',
-                  width: 15,
-                  height: 15,
-                ),
-                const SizedBox(
-                  width: 9,
-                ),
-                Text(
-                  data.time,
-                  style: textStyle(color12, 13, FontWeight.w600),
-                  overflow: TextOverflow.ellipsis,
-                )
-              ],
-            ),
-            const SizedBox(
-              height: 8,
-            ),
-            Text(
-              'Giáo viên: ' + data.teacherName,
-              style: textStyle(Colors.black, 13.0, FontWeight.w600),
-              overflow: TextOverflow.ellipsis,
-            ),
-          ],
-        ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text(
+            data.name,
+            style: textStyle(Colors.black, 18.0, FontWeight.w700),
+            overflow: TextOverflow.ellipsis,
+          ),
+          const SizedBox(
+            height: 3,
+          ),
+          Row(
+            mainAxisAlignment: MainAxisAlignment.start,
+            children: [
+              Image.asset(
+                iconsPath + 'clock.png',
+                width: 15,
+                height: 15,
+              ),
+              const SizedBox(
+                width: 9,
+              ),
+              Text(
+                data.time,
+                style: textStyle(color12, 13, FontWeight.w600),
+                overflow: TextOverflow.ellipsis,
+              )
+            ],
+          ),
+          const SizedBox(
+            height: 8,
+          ),
+          Text(
+            'Giáo viên: ' + data.teacherName,
+            style: textStyle(Colors.black, 13.0, FontWeight.w600),
+            overflow: TextOverflow.ellipsis,
+          ),
+        ],
       ),
     ),
   );
