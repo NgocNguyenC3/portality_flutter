@@ -5,7 +5,7 @@
 1. Sử dụng Provider để quản lí state
 2. Vì dữ liệu được cài đặt cứng, nên sử dụng shared preferences để lưu trữ khóa học.
 3. Màn hình tối thiểu để sử dụng: height - 541, Width - 325
-
+4. Link apk: https://drive.google.com/drive/folders/1GpYFjbhjCRvogPkg_QzXePR2-nOl7Mwu?usp=sharing
 Các màn hình có trong ứng dụng
 ![Login](lib/data/my_file/login.png)
 ![HomePage](lib/data/my_file/home_page.png)
