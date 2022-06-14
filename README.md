@@ -10,25 +10,25 @@
 
 Các màn hình có trong ứng dụng
 <div>
-<img src="lib/data/my_file/login.png" width="350" height="800">
+<img src="lib/data/my_file/login.png" width="350" height="680">
   </div>
 <div>
-<img src="lib/data/my_file/home_page.png" width="350" height="800">
+<img src="lib/data/my_file/home_page.png" width="350" height="680">
   </div>
   <div>
-<img src="lib/data/my_file/schedule_page.png" width="350" height="800">
+<img src="lib/data/my_file/schedule_page.png" width="350" height="680">
   </div>
     <div>
-<img src="lib/data/my_file/task_page.png" width="350" height="800">
+<img src="lib/data/my_file/task_page.png" width="350" height="680">
   </div>
       <div>
-<img src="lib/data/my_file/fee_page.png" width="350" height="800">
+<img src="lib/data/my_file/fee_page.png" width="350" height="680">
   </div>
         <div>
-<img src="lib/data/my_file/course_page.png" width="350" height="800">
+<img src="lib/data/my_file/course_page.png" width="350" height="680">
   </div>
           <div>
-<img src="lib/data/my_file/notification_page.png" width="350" height="800">
+<img src="lib/data/my_file/notification_page.png" width="350" height="680">
          </div>
 
 
