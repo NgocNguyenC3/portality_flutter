@@ -9,7 +9,7 @@
 5. Chức năng Đăng ký không khả dụng, tài khoản dùng để đăng nhập: hocsinh1@gmail.com  MK: 123123
 
 Các màn hình có trong ứng dụng
-<img src="lib/data/my_file/login.png" width="325" height="541">
+<img src="lib/data/my_file/login.png" width="350" height="800">
 ![HomePage](lib/data/my_file/home_page.png)
 ![SchedulePage](lib/data/my_file/schedule_page.png)
 ![TaskPage](lib/data/my_file/task_page.png)
