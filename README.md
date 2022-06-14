@@ -10,10 +10,11 @@
 
 Các màn hình có trong ứng dụng
 <img src="lib/data/my_file/login.png" width="350" height="800">
-![HomePage](lib/data/my_file/home_page.png)
-![SchedulePage](lib/data/my_file/schedule_page.png)
-![TaskPage](lib/data/my_file/task_page.png)
-![FeePage](lib/data/my_file/fee_page.png)
-![CoursePage](lib/data/my_file/course_page.png)
-![NotificationPage](lib/data/my_file/notification_page.png)
+<img src="lib/data/my_file/home_page.png" width="350" height="800">
+<img src="lib/data/my_file/schedule_page.png" width="350" height="800">
+<img src="lib/data/my_file/task_page.png" width="350" height="800">
+<img src="lib/data/my_file/fee_page.png" width="350" height="800">
+<img src="lib/data/my_file/course_page.png" width="350" height="800">
+<img src="lib/data/my_file/notification_page.png" width="350" height="800">
+
 
